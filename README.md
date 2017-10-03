@@ -1,5 +1,8 @@
-brief professional bio
+![](https://user-images.githubusercontent.com/2608073/31106085-a11c91f0-a79d-11e7-8a53-01aac2a3fe16.png)
+
+Dr. Andriy V. Koval 
 ===
+_brief professional bio_
 
 September 2017
 
