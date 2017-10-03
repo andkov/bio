@@ -16,6 +16,10 @@ In August of 2017 I was [awarded][award] Health System Impact [Fellowship][fello
 
 My program of work proposes to develop a system for population health surveillance that would focus on chronic diseases, with particular focus on mental health and substance use (MHSU) conditions, which tend to have high comorbidity rates, polysubstance use patterns, and slowly progressing pace of development. 
 
+See my work on github at [/andkov][github_andkov] and [/ialsa][github_ialsa].
+
+
+[github_andkov]:https://github.com/andkov
 [rodgers]:https://www.vanderbilt.edu/psychological_sciences/bio/joe-rodgers
 [ialsa]:https://www.maelstrom-research.org/mica/network/ialsa
 [piccinin]:http://www.uvic.ca/socialsciences/psychology/people/faculty-directory/piccininandrea.php
