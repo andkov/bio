@@ -1,5 +1,5 @@
-# bio
-Quick professional bio
+brief professional bio
+===
 
 September 2017
 
