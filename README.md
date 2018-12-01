@@ -7,7 +7,7 @@ _brief professional bio_
 Updated: December 2018 
 
 Assistant Professor    
-[Health Management and Informatiocs][hmi]    
+[Health Management and Informatics][hmi]    
 [University of Central Floria][ucf]   
 
 
@@ -21,7 +21,7 @@ In August of 2017 I was [awarded][award] Health System Impact [Fellowship][fello
 
 My program of work proposed to develop a system for population health surveillance that would focus on chronic diseases, with particular focus on mental health and substance use (MHSU) conditions, which tend to have high comorbidity rates, polysubstance use patterns, and slowly progressing pace of development. 
 
-In December 2018 I have joined the faculty of [Health Management and Informatiocs][hmi] at the [University of Central Floria][ucf] in Orlando. 
+In December 2018 I have joined the faculty of [Health Management and Informatiocs][hmi] at the [University of Central Floria][ucf] in Orlando. My current interests include automation of longitudinal modeling in multi-study context, statistical modeling of service utilization over time, and  their analytic applications for linked population data. 
 
 See my work on github at [/andkov][github_andkov] and [/ialsa][github_ialsa].
 
