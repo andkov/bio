@@ -4,7 +4,8 @@ Dr. Andriy V. Koval
 ===
 _brief professional bio_
 
-December 2018    
+Updated: December 2018 
+
 Assistant Professor    
 [Health Management and Informatiocs][hmi]    
 [University of Central Floria][ucf]   
@@ -20,7 +21,7 @@ In August of 2017 I was [awarded][award] Health System Impact [Fellowship][fello
 
 My program of work proposed to develop a system for population health surveillance that would focus on chronic diseases, with particular focus on mental health and substance use (MHSU) conditions, which tend to have high comorbidity rates, polysubstance use patterns, and slowly progressing pace of development. 
 
-
+In December 2018 I have joined the faculty of [Health Management and Informatiocs][hmi] at the [University of Central Floria][ucf] in Orlando. 
 
 See my work on github at [/andkov][github_andkov] and [/ialsa][github_ialsa].
 
