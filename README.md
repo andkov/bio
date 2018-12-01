@@ -4,17 +4,24 @@ Dr. Andriy V. Koval
 ===
 _brief professional bio_
 
-September 2017
+December 2018
 
-I am a data scientist with background in quantitative methods and interest in data-driven models of human aging. 
+Assistant Professor
+[Health Management and Informatiocs][ucf_hmi]
+[University of Central Floria][ucf]
 
-I received my Ph.D. in Quantitative Methods from Vanderbilt University in 2014, studying under [Dr. Joe Rodgers][rodgers]. We read about  design of graphical displays of information, statistical modeling, and reproducible research. In August of the same year I joined the [Integrative Analysis of Longitudinal Studies of Aging][ialsa] (IALSA) network at the University of Victoria (UVic), directed by [Dr. Andrea Piccinin][piccinin] and [Dr. Scott Hofer][hofer]. At IALSA I work on developing [reproducible analytics][github_ialsa] (R + GitHub), particularly for implementing coordinated statistical analyses among multiple longitudinal studies of human aging. 
 
-Interest in data-driven narratives of human aging lead me explore the use of electronic health records (EHR) for research and improvement of patient care. Since October 2015 I worked with Dr. Kenneth Moselle, the director of the [Applied Clinical Research Unit][github_acru] (ACRU) of Vancouver Island Health Authority (VIHA) on rendering VIHA's EHR into analyzable form and creating opportunities for academic and clinical researchers to work with these data in responsible and reproducible way. 
+I am a data scientist with background in quantitative methods and interest in data-driven, longitudinal models of health.
+
+I received my Ph.D. in Quantitative Methods from Vanderbilt University in 2014, studying under [Dr. Joe Rodgers][rodgers]. We read about  design of graphical displays of information, statistical modeling, and reproducible research. In August of the same year I joined the [Integrative Analysis of Longitudinal Studies of Aging][ialsa] (IALSA) network at the University of Victoria (UVic), directed by [Dr. Andrea Piccinin][piccinin] and [Dr. Scott Hofer][hofer]. With IALSA, I work on developing [reproducible analytics][github_ialsa] (R + GitHub), particularly for implementing coordinated statistical analyses among multiple longitudinal studies of human aging. 
+
+Interest in data-driven narratives of human aging lead me explore the use of electronic health records (EHR) for research and improvement of patient care. Since October 2015 I work with Dr. Kenneth Moselle, the director of the [Applied Clinical Research Unit][github_acru] (ACRU) of Vancouver Island Health Authority (VIHA). The focus of our work during this time was on rendering VIHA's EHR into analyzable form and creating opportunities for academic and clinical researchers to work with these data in responsible and reproducible way. We designed a Clinical Context Scheme (CCCS), establishing a semantic layer for expressing patients' trajectory in time through the space of health services.  
 
 In August of 2017 I was [awarded][award] Health System Impact [Fellowship][fellowship] with BC [Observatory][observatory] for Population and Public Health of the BC [Centre for Disease Control][bccdc].
 
-My program of work proposes to develop a system for population health surveillance that would focus on chronic diseases, with particular focus on mental health and substance use (MHSU) conditions, which tend to have high comorbidity rates, polysubstance use patterns, and slowly progressing pace of development. 
+My program of work proposed to develop a system for population health surveillance that would focus on chronic diseases, with particular focus on mental health and substance use (MHSU) conditions, which tend to have high comorbidity rates, polysubstance use patterns, and slowly progressing pace of development. 
+
+
 
 See my work on github at [/andkov][github_andkov] and [/ialsa][github_ialsa].
 
@@ -30,3 +37,5 @@ See my work on github at [/andkov][github_andkov] and [/ialsa][github_ialsa].
 [fellowship]:http://www.cihr-irsc.gc.ca/e/50268.html
 [observatory]:http://www.bccdc.ca/our-services/programs/bc-observatory-for-pop-public-health
 [bccdc]:http://www.bccdc.ca/
+[hmi]:https://ccie.ucf.edu/hmi/welcome/
+[ucf]:https://www.ucf.edu/
