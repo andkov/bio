@@ -6,7 +6,7 @@ _brief professional bio_
 
 December 2018    
 Assistant Professor    
-[Health Management and Informatiocs][ucf_hmi]    
+[Health Management and Informatiocs][hmi]    
 [University of Central Floria][ucf]   
 
 
