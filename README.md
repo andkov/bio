@@ -4,11 +4,10 @@ Dr. Andriy V. Koval
 ===
 _brief professional bio_
 
-December 2018
-
-Assistant Professor
-[Health Management and Informatiocs][ucf_hmi]
-[University of Central Floria][ucf]
+December 2018    
+Assistant Professor    
+[Health Management and Informatiocs][ucf_hmi]    
+[University of Central Floria][ucf]   
 
 
 I am a data scientist with background in quantitative methods and interest in data-driven, longitudinal models of health.
